@@ -1,0 +1,1 @@
+Iteration | framework score | genetic score | framework time | genetic time

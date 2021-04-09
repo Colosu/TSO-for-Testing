@@ -1,0 +1,3 @@
+Iteration | framework score | genetic score | framework time | genetic time
+1 & 0.7284991568296796 & 0.790893760539629 & 28308.824743147496 & 11218.737007367472\\
+\hline
